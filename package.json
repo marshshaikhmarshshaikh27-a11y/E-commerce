@@ -1,0 +1,20 @@
+{
+  "name": "qadri-enterprises",
+  "version": "1.0.0",
+  "description": "Full Stack E-Commerce & Admin Platform for Qadri Enterprises - Batteries & Solar Specialist",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "daewoo",
+    "phoenix",
+    "tubular-batteries",
+    "dry-batteries",
+    "qadri-enterprises"
+  ],
+  "author": "Qadri Enterprises",
+  "license": "ISC"
+}
